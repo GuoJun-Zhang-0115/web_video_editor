@@ -1,0 +1,17 @@
+{
+  "name": "web_video_editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mp4box": "^0.5.3",
+    "vite": "^5.4.10"
+  }
+}
